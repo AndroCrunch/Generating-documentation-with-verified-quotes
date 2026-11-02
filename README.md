@@ -1,4 +1,4 @@
-Code for MSc Thesis 2025 "Generating documentation with verified quotes using fine-tuned large language models"
+Code for MSc Thesis collaboration with Novo Nordsik Engineering MIT department "Generating documentation with verified quotes using fine-tuned large language models"
 
 ## Dependencies:
 - https://github.com/microsoft/controllable-safety-alignment
